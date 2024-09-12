@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/09 10:23:06.000.793,=C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 10:23:07.000.832,=C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/11/09 10:23:07.000.906,=C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/11/09 10:37:50.000.216,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\RAFAEL\Desktop\Serviço de Impressão\frmPrincipal.dfm</Transaction>
+    <Transaction>2018/11/09 10:37:50.000.216,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\RAFAEL\Desktop\Serviço de Impressão\frmPrincipal.pas</Transaction>
+    <Transaction>2018/11/09 10:38:10.000.964,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\Users\RAFAEL\Desktop\Serviço de Impressão\uServerMethods.pas</Transaction>
+    <Transaction>2018/11/09 10:38:18.000.650,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\Users\RAFAEL\Desktop\Serviço de Impressão\uServerContainer.pas</Transaction>
+    <Transaction>2018/11/09 10:38:18.000.650,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\Users\RAFAEL\Desktop\Serviço de Impressão\uServerContainer.dfm</Transaction>
+    <Transaction>2018/11/09 10:38:28.000.534,C:\Users\RAFAEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\RAFAEL\Desktop\Serviço de Impressão\ServicoImpressao.dproj</Transaction>
+    <Transaction>2018/11/09 11:04:05.000.697,=C:\Users\RAFAEL\Desktop\Serviço de Impressão\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 11:20:31.000.730,C:\Users\RAFAEL\Desktop\Serviço de Impressão\DMPrincipal.pas=C:\Users\RAFAEL\Desktop\Serviço de Impressão\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 11:20:31.000.730,C:\Users\RAFAEL\Desktop\Serviço de Impressão\DMPrincipal.dfm=C:\Users\RAFAEL\Desktop\Serviço de Impressão\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
